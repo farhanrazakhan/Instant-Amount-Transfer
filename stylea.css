@@ -1,0 +1,24 @@
+table{
+  font-family: sans-serif;
+  color: black;
+  background: gainsboro;
+}
+body{
+   background:white;
+}
+h1{
+   font-family: monospaced;
+   font-size: 45pt;
+}
+a{
+  background:white;
+  color: black;
+}
+.transfer{
+   background-image: url(bank2.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+th{
+  background: white;
+}

@@ -1,0 +1,30 @@
+body{
+     background:lightpink;
+}
+a{
+   background:white;
+   color:black;
+ }
+h1{
+   font-family:monospaced;
+   font-size:60pt;
+}
+h3{
+   font-family: serif;
+   font-size: 25pt;
+   color:maroon;
+}
+h2{
+   font-family:monospaced;
+   font-size: 40pt;
+}
+h6{
+  font-family:sans-serif;
+  font-size: 12pt;
+  color: indigo;
+}
+.home{
+   background-image: url(bank2.jpg);
+   background-repeat: no-repeat;
+   background-size:cover;
+}
